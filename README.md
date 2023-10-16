@@ -2,4 +2,6 @@
 Responsive sidebar project, fully customizable with vibrant colors.
 
 
-![video-mk-mac-sidebar](https://github.com/YoungCeoOfSCZG/sidebar/assets/145061884/b5839c0f-6d9c-46f1-bcdc-f555b5bc5c83)
+
+https://github.com/YoungCeoOfSCZG/sidebar/assets/145061884/a16613d8-25a3-4929-bdfa-51812b86f8b2
+
